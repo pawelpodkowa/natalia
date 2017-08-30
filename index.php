@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <!--[if IE 7]><html class="ie ie7 ltie8 ltie9" lang="pl-PL"><![endif]-->
 <!--[if IE 8]><html class="ie ie8 ltie9" lang="pl-PL"><![endif]-->
@@ -21,17 +20,42 @@
 
   </head>
     <body>
-      <div class="row">
-        <div class="container">
+      <header>
+        <div class="row">
+          <div class="col-md-12 col-xs-12">
+            //header block
+          </div>
+        </div>
+      <div class="container">
+        <div class="row">
           <div class="col-md-12 col-xs-12">
               <h1>Natalia Wojtecka (specialization)</h1>
           </div>
+          <div class="col-md-6 col-xs-12">
+            <p>LoremIpsum geteLoremIpsum geteLoremIpsum geteLoremIpsum geteLoremIpsum gete
+              LoremIpsum geteLoremIpsum geteLoremIpsum geteLoremIpsum geteLoremIpsum gete
+              LoremIpsum geteLoremIpsum geteLoremIpsum geteLoremIpsum geteLoremIpsum geteLoremIpsum</p>
+          </div>
+          <div class="col-md-6 col-xs-12">
+            //instagram photo widget
+          </div>
+          <div class="col-md-12 col-xs-12">
+            //instagram post widget
+          </div>
+          <div class="col-md-6 col-xs-12">
+            // contact details
+          </div>
+          <div class="col-md-6 col-xs-12">
+            // google maps
+          </div>
+        </div> //end row
+      </div> //end container
+      <footer>
+        <div class="row">
+          <div class="col-md-12 col-xs-12">
+            //footer
+          </div>
         </div>
-      </div>
-      
-
-
-
-
+      </footer>
     </body>
   </html>
